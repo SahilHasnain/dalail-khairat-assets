@@ -1,0 +1,5 @@
+*.pdf
+node_modules/
+ocr-output/
+tessdata/
+temp-pages/

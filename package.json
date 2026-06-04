@@ -1,0 +1,12 @@
+{
+  "name": "dalail-khairat-assets",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "convert": "node scripts/convert-pdf-to-pages.js",
+    "ocr:weekdays": "node scripts/ocr-weekday-boundaries.js"
+  },
+  "dependencies": {
+    "pdf-poppler": "^0.2.1"
+  }
+}

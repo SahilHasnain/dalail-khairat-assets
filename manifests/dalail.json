@@ -1,0 +1,7 @@
+{
+  "version": "2026-06-04",
+  "totalPages": 322,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/SahilHasnain/dalail-khairat-assets@main/pages",
+  "filePattern": "page-{page}.png",
+  "extension": "png"
+}
